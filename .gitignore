@@ -1,0 +1,5 @@
+*.DS_Store
+base-project-address-book/address-book-ws/.settings/
+base-project-address-book/address-book-ejb/.settings/
+*.project
+*.classpath
